@@ -106,7 +106,7 @@ function HomePage() {
               </p>
             <div className="mt-10 flex flex-wrap items-center gap-4">
               <Link
-                to="/shop now"
+                to="/shop"
                 className="shine-on-hover inline-flex items-center gap-2 rounded-full bg-gold-gradient px-10 py-4 text-xs tracking-[0.22em] uppercase text-primary-foreground transition-transform duration-500 hover:scale-[1.03]"
               >
                 Shop now
